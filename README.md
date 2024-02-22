@@ -8,3 +8,4 @@
 - [0x03. React Component](./0x03-React_component/)
 - [0x04. React Inline Styling](./0x04-React_inline_styling/)
 - [0x05. React State](./0x05-react_state/)
+- [0x06. React Immutable](./0x06-React_Immutable/)
